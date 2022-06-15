@@ -1,0 +1,1 @@
+Criei essa calculadora com o objetivo de praticar HTML, CSS e JS
